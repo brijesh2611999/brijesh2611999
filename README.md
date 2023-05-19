@@ -1,7 +1,7 @@
 
-![Screenshot (14)](https://github.com/brijesh2611999/brijesh2611999/assets/123811248/edb4befe-0bd3-4c19-a241-c52ef4ce9178)
 
-<!--
+<!--![Screenshot (54)](https://github.com/brijesh2611999/brijesh2611999/assets/123811248/1e7ecab7-bcea-4fe3-9925-25259a0e55ee)
+
 **brijesh2611999/brijesh2611999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
