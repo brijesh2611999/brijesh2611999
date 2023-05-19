@@ -1,5 +1,4 @@
-
-![Screenshot 2023-05-19 152230](https://github.com/brijesh2611999/brijesh2611999/assets/123811248/0517dce2-612d-48a6-be3d-20f9becabd00)
+![Screenshot 2023-05-19 152429](https://github.com/brijesh2611999/brijesh2611999/assets/123811248/d18736da-a8fc-405d-9249-a94ac4d09968)
 
 
 **brijesh2611999/brijesh2611999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
