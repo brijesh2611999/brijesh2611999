@@ -1,5 +1,6 @@
 ![176309783-0785949b-9127-417c-8b55-ab5a4333674e (1)](https://github.com/brijesh2611999/brijesh2611999/assets/123811248/8de4611c-1f69-4841-9427-b149c23dca19)
-![Screenshot 2023-05-19 152429](https://github.com/brijesh2611999/brijesh2611999/assets/123811248/d18736da-a8fc-405d-9249-a94ac4d09968)
+![Screenshot 2023-05-19 153423](https://github.com/brijesh2611999/brijesh2611999/assets/123811248/c548cb4a-38f5-4253-ad13-2b8b8ee45b0a)
+
 
 
 **brijesh2611999/brijesh2611999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
