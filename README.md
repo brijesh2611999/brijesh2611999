@@ -29,5 +29,3 @@
 - 📫 How to reach me: [bv2611999@gmail.com](mailto:bv2611999@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving algorithmic puzzles and exploring new technologies.
-
--->
